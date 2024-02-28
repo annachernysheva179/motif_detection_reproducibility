@@ -222,7 +222,7 @@ class GeneRateOneHotMatrix():
             self.StoreTrainSet(rootPath=OutputDir)
 
 
-# added initial_lr option
+# added more hyperparameter options
 def build_vCNN(model_template, number_of_kernel, max_kernel_length, lr=1,rho=0.99, epsilon=1.0e-8, input_shape=(1000,4)):
     """
 
