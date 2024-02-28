@@ -1,0 +1,3 @@
+[submodule "pipelines/vCNN/vConv"]
+	path = pipelines/vCNN/vConv
+	url = https://github.com/gao-lab/vConv
